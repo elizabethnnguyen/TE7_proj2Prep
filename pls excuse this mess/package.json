@@ -1,0 +1,25 @@
+{
+  "name": "te7_proj2prep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babylonex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elizabethnnguyen/TE7_proj2Prep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elizabethnnguyen/TE7_proj2Prep/issues"
+  },
+  "homepage": "https://github.com/elizabethnnguyen/TE7_proj2Prep#readme",
+  "dependencies": {
+    "create-react-class": "^15.7.0",
+    "jquery": "^3.6.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
