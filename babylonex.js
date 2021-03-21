@@ -32,7 +32,7 @@ var createScene = function () {
     // sphere.material = newMaterial;
 
 
-    var sphere = BABYLON.SceneLoader.ImportMesh("", "/assets/", "home_06.glb", scene);
+    var sphere = BABYLON.SceneLoader.ImportMesh("", "/assets/", "home_07_reduced.glb", scene);
     sphere.material = newMaterial;
 
     // BABYLON.SceneLoader.ImportMesh("", "/assets/", "test.glb", scene, function(newMeshes){
